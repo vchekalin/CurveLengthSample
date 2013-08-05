@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command CurveLengthSample</Text>
+    <Description>Some description for CurveLengthSample</Description>
+    <Assembly>CurveLengthSample.dll</Assembly>
+    <FullClassName>CurveLengthSample.Command</FullClassName>
+    <ClientId>6ed7983a-7840-4129-ba40-d565014bad20</ClientId>
+    <VendorId>VC</VendorId>
+  </AddIn>
+</RevitAddIns>
